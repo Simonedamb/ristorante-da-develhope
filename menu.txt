@@ -1,1 +1,27 @@
+Ristorante: "I quattro TAG"
 
+Tipo di menu: "Carne"
+
+PRIMI PIATTI (assegnato a DAVIDE RICCA)
+
+-
+-
+-
+
+SECONDI PIATTI (assegnato a DAVIDE CARAMIELLO)
+
+-
+-
+-
+
+CONTORNI (assegnato a ENZO STELLAVATO)
+
+-
+-
+-
+
+DESSERT (assegnato a DENNIS JOEL SARASIBAR)
+
+-
+-
+-
