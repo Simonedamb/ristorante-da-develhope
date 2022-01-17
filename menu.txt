@@ -1,3 +1,6 @@
+
+
+
 Ristorante: "I quattro TAG"
 
 Tipo di menu: "Carne"
@@ -22,12 +25,13 @@ CONTORNI (assegnato a ENZO STELLAVATO)
 
 DESSERT (assegnato a DENNIS JOEL SARASIBAR)
 
--
--
--
+- Mousse al cioccolato fondente con cuore d’arancia.
+- Parfait di cioccolato di Modica con miele.
+- Torta umida alla frutta secca su crema di cioccolato fondente.
 
 AMARI (assegnato a SIMONE D'AMBROSIO)
 
 -
 -
 -
+
