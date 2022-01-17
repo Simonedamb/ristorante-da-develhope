@@ -4,9 +4,9 @@ Tipo di menu: "Carne"
 
 PRIMI PIATTI (assegnato a DAVIDE RICCA)
 
--
--
--
+- Spaghetti alla carbonara
+- Cannelloni
+- Ravioli cinesi al vapore
 
 SECONDI PIATTI (assegnato a DAVIDE CARAMIELLO)
 
